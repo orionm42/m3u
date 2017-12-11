@@ -1,131 +1,178 @@
-#EXTINF:-1,PT: RTP 1
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9575.ts
-#EXTINF:-1,PT: RTP 2
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9576.ts
-#EXTINF:-1,PT: SIC
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9584.ts
-#EXTINF:-1,PT: TVI
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9592.ts
-#EXTINF:-1,PT: SIC Noticias
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9585.ts
-#EXTINF:-1,PT: RTP 3
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9577.ts
-#EXTINF:-1,PT: TVI 24
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9591.ts
-#EXTINF:-1,PT: CMTV
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9574.ts
-#EXTINF:-1,PT: Globo
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9599.ts
-#EXTINF:-1,PT: SIC MULHER
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9586.ts
-#EXTINF:-1,PT: TVI REALITY
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9635.ts
-#EXTINF:-1,PT: Porto Canal
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9606.ts
-#EXTINF:-1,PT: SIC CARAS
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9587.ts
-#EXTINF:-1,PT: SIC Radical
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9588.ts
-#EXTINF:-1,PT: RTP Memoria
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9657.ts
-#EXTINF:-1,PT: Sport TV
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9608.ts
-#EXTINF:-1,PT: Sport TV 1 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9609.ts
-#EXTINF:-1,PT: Sport TV 2 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9610.ts
-#EXTINF:-1,PT: Sport TV 3 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9611.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9612.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9613.ts
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9614.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9618.ts
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9616.ts
-#EXTINF:-1,PT: NICKELODEON
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9640.ts
-#EXTINF:-1,PT: Canal Panda
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9639.ts
-#EXTINF:-1,PT: Biggs
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9643.ts
-#EXTINF:-1,PT: Disney junior
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9644.ts
-#EXTINF:-1,PT: CARTOON NETWORK
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9646.ts
-#EXTINF:-1,PT: Baby TV
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9641.ts
-#EXTINF:-1,PT: TVCine 1
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9593.ts
-#EXTINF:-1,PT: TVCine 2
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9594.ts
-#EXTINF:-1,PT: TVCine 3
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9595.ts
-#EXTINF:-1,PT: TVCine 4
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9596.ts
-#EXTINF:-1,PT: TV SERIES
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9597.ts
-#EXTINF:-1,PT: Hollywood
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9581.ts
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9663.ts
-#EXTINF:-1,PT: AXN Black HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9605.ts
-#EXTINF:-1,PT: AXN HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9604.ts
-#EXTINF:-1,PT: MOV HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9602.ts
-#EXTINF:-1,PT: Globo Premium
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/17697.ts
-#EXTINF:-1,PT: Fox Life
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9638.ts
-#EXTINF:-1,PT: Fox HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9589.ts
-#EXTINF:-1,PT: Fox Crime
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9583.ts
-#EXTINF:-1,PT: FOX COMEDY
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9607.ts
-#EXTINF:-1,PT: Fox Movies
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9637.ts
-#EXTINF:-1,PT: AXN White HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9603.ts
-#EXTINF:-1,PT: Canal Q
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9582.ts
-#EXTINF:-1,PT: TLC
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9625.ts
-#EXTINF:-1,PT: MTV
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9659.ts
+#EXTINF:-1,PT: 24 Kitchen
+http://globiptv.com:8000/live/workfine/skype/2487.ts
+#EXTINF:-1,PT: A bola
+http://globiptv.com:8000/live/workfine/skype/2478.ts
 #EXTINF:-1,PT: AMC
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9632.ts
-#EXTINF:-1,PT: 24 KITCHEN
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9573.ts
-#EXTINF:-1,PT: Discovery Channel
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9656.ts
-#EXTINF:-1,PT: National Geographic
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9649.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9655.ts
-#EXTINF:-1,PT: Odisseia
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9590.ts
-#EXTINF:-1,PT: Travel Channel
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9658.ts
+http://globiptv.com:8000/live/workfine/skype/2076.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://globiptv.com:8000/live/workfine/skype/2060.ts
+#EXTINF:-1,PT: AXN HD
+http://globiptv.com:8000/live/workfine/skype/1046.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://globiptv.com:8000/live/workfine/skype/2061.ts
+#EXTINF:-1,PT: BABY TV
+http://globiptv.com:8000/live/workfine/skype/2077.ts
+#EXTINF:-1,PT: Benfica TV 1
+http://globiptv.com:8000/live/workfine/skype/2542.ts
+#EXTINF:-1,PT: Benfica TV 1 HD
+http://globiptv.com:8000/live/workfine/skype/1090.ts
+#EXTINF:-1,PT: Caca & Pesca
+http://globiptv.com:8000/live/workfine/skype/2485.ts
+#EXTINF:-1,PT: Canal Panda
+http://globiptv.com:8000/live/workfine/skype/2075.ts
+#EXTINF:-1,PT: Cancao Nova
+http://globiptv.com:8000/live/workfine/skype/2753.ts
+#EXTINF:-1,PT: Cartoon NetWork
+http://globiptv.com:8000/live/workfine/skype/2484.ts
+#EXTINF:-1,PT: CBS Reality
+http://globiptv.com:8000/live/workfine/skype/2066.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://globiptv.com:8000/live/workfine/skype/2059.ts
+#EXTINF:-1,PT: CM TV
+http://globiptv.com:8000/live/workfine/skype/2078.ts
+#EXTINF:-1,PT: Discovery HD
+http://globiptv.com:8000/live/workfine/skype/2065.ts
+#EXTINF:-1,PT: Disney Channel
+http://globiptv.com:8000/live/workfine/skype/2070.ts
+#EXTINF:-1,PT: Disney Junior
+http://globiptv.com:8000/live/workfine/skype/2071.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://globiptv.com:8000/live/workfine/skype/2483.ts
+#EXTINF:-1,PT: Euronews
+http://globiptv.com:8000/live/workfine/skype/2482.ts
+#EXTINF:-1,PT: EuroSport 1 HD
+http://globiptv.com:8000/live/workfine/skype/2481.ts
+#EXTINF:-1,PT: EUROSPORT HD
+http://globiptv.com:8000/live/workfine/skype/1973.ts
+#EXTINF:-1,PT: Fox Comedy
+http://globiptv.com:8000/live/workfine/skype/2144.ts
+#EXTINF:-1,PT: FOX Crime
+http://globiptv.com:8000/live/workfine/skype/2754.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://globiptv.com:8000/live/workfine/skype/2480.ts
+#EXTINF:-1,PT: FOX HD
+http://globiptv.com:8000/live/workfine/skype/1694.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://globiptv.com:8000/live/workfine/skype/2064.ts
+#EXTINF:-1,PT: FOX Movies
+http://globiptv.com:8000/live/workfine/skype/2063.ts
 #EXTINF:-1,PT: Historia
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9664.ts
-#EXTINF:-1,PT: A&E
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9633.ts
-#EXTINF:-1,PT: Discovery Showcase
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9652.ts
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9619.ts
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9620.ts
-#EXTINF:-1,PT: Eurosport News
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9617.ts
-#EXTINF:-1,PT: Fuel TV
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9627.ts
-#EXTINF:-1,PT: Toros TV
-http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/17704.ts
-Binary file (standard input) matches
+http://globiptv.com:8000/live/workfine/skype/2431.ts
+#EXTINF:-1,PT: HollyWood SD/HD
+http://globiptv.com:8000/live/workfine/skype/2479.ts
+#EXTINF:-1,PT: Motors TV
+http://globiptv.com:8000/live/workfine/skype/1966.ts
+#EXTINF:-1,PT: MOV HD
+http://globiptv.com:8000/live/workfine/skype/2432.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://globiptv.com:8000/live/workfine/skype/2068.ts
+#EXTINF:-1,PT: Nat Geographic
+http://globiptv.com:8000/live/workfine/skype/2067.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://globiptv.com:8000/live/workfine/skype/1972.ts
+#EXTINF:-1,PT: Nickelodeon
+http://globiptv.com:8000/live/workfine/skype/2074.ts
+#EXTINF:-1,PT: Odisseia
+http://globiptv.com:8000/live/workfine/skype/2433.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://globiptv.com:8000/live/workfine/skype/2073.ts
+#EXTINF:-1,PT: PFC
+http://globiptv.com:8000/live/workfine/skype/2069.ts
+#EXTINF:-1,PT: Porto Canal
+http://globiptv.com:8000/live/workfine/skype/2072.ts
+#EXTINF:-1,PT: REAL MADRID TV
+http://globiptv.com:8000/live/workfine/skype/2079.ts
+#EXTINF:-1,PT: RTP 1
+http://globiptv.com:8000/live/workfine/skype/1971.ts
+#EXTINF:-1,PT: RTP 2
+http://globiptv.com:8000/live/workfine/skype/1970.ts
+#EXTINF:-1,PT: RTP 3
+http://globiptv.com:8000/live/workfine/skype/1969.ts
+#EXTINF:-1,PT: RTP ACORES
+http://globiptv.com:8000/live/workfine/skype/2058.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://globiptv.com:8000/live/workfine/skype/2057.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://globiptv.com:8000/live/workfine/skype/2055.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://globiptv.com:8000/live/workfine/skype/2056.ts
+#EXTINF:-1,PT: SIC
+http://globiptv.com:8000/live/workfine/skype/1964.ts
+#EXTINF:-1,PT: SIC CARAS
+http://globiptv.com:8000/live/workfine/skype/2760.ts
+#EXTINF:-1,PT: SIC K
+http://globiptv.com:8000/live/workfine/skype/2052.ts
+#EXTINF:-1,PT: SIC MULHER
+http://globiptv.com:8000/live/workfine/skype/2054.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://globiptv.com:8000/live/workfine/skype/2053.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://globiptv.com:8000/live/workfine/skype/1797.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://globiptv.com:8000/live/workfine/skype/2827.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://globiptv.com:8000/live/workfine/skype/2828.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://globiptv.com:8000/live/workfine/skype/2829.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://globiptv.com:8000/live/workfine/skype/2830.ts
+#EXTINF:-1,PT: SPORT TV AMERICA
+http://globiptv.com:8000/live/workfine/skype/2477.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://globiptv.com:8000/live/workfine/skype/2476.ts
+#EXTINF:-1,PT: SyFy
+http://globiptv.com:8000/live/workfine/skype/2474.ts
+#EXTINF:-1,PT: TLC
+http://globiptv.com:8000/live/workfine/skype/2389.ts
+#EXTINF:-1,PT: TV Globo
+http://globiptv.com:8000/live/workfine/skype/2062.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://globiptv.com:8000/live/workfine/skype/1968.ts
+#EXTINF:-1,PT: TV record
+http://globiptv.com:8000/live/workfine/skype/1967.ts
+#EXTINF:-1,PT: TV Series
+http://globiptv.com:8000/live/workfine/skype/1693.ts
+#EXTINF:-1,PT: TVCine 1 HD
+http://globiptv.com:8000/live/workfine/skype/1059.ts
+#EXTINF:-1,PT: TVCine 2 HD
+http://globiptv.com:8000/live/workfine/skype/1058.ts
+#EXTINF:-1,PT: TVCine 3 HD
+http://globiptv.com:8000/live/workfine/skype/1057.ts
+#EXTINF:-1,PT: TVCine 4 HD
+http://globiptv.com:8000/live/workfine/skype/1056.ts
+#EXTINF:-1,PT: TVI
+http://globiptv.com:8000/live/workfine/skype/1055.ts
+#EXTINF:-1,PT: TVI 24
+http://globiptv.com:8000/live/workfine/skype/1054.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://globiptv.com:8000/live/workfine/skype/2051.ts
+#EXTINF:-1,PT: TVI REALITY
+http://globiptv.com:8000/live/workfine/skype/2050.ts
+#EXTINF:-1,PT: A & E
+http://globiptv.com:8000/live/workfine/skype/3251.ts
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://globiptv.com:8000/live/workfine/skype/3187.ts
+#EXTINF:-1,PT: Jim Jam
+http://globiptv.com:8000/live/workfine/skype/3238.ts
+#EXTINF:-1,PT: SIC Radical
+http://globiptv.com:8000/live/workfine/skype/3239.ts
+#EXTINF:-1,PT: Sport TV 1
+http://globiptv.com:8000/live/workfine/skype/858.ts
+#EXTINF:-1,PT: Sport TV 2
+http://globiptv.com:8000/live/workfine/skype/857.ts
+#EXTINF:-1,PT: Sport TV 3
+http://globiptv.com:8000/live/workfine/skype/856.ts
+#EXTINF:-1,PT: Sport TV 4
+http://globiptv.com:8000/live/workfine/skype/855.ts
+#EXTINF:-1,PT: Sport TV 5
+http://globiptv.com:8000/live/workfine/skype/2475.ts
+#EXTINF:-1,PT: Caça Vision
+http://globiptv.com:8000/live/workfine/skype/3252.ts
+#EXTINF:-1,PT: CANAL Q
+http://globiptv.com:8000/live/workfine/skype/3250.ts
+#EXTINF:-1,PT: EuroSport 2
+http://globiptv.com:8000/live/workfine/skype/3186.ts
+#EXTINF:-1,PT: FUEL TV
+http://globiptv.com:8000/live/workfine/skype/3253.ts
+#EXTINF:-1,PT: SPORT TV+
+http://globiptv.com:8000/live/workfine/skype/3185.ts
