@@ -1,262 +1,131 @@
-#EXTINF:-1,RTP 1 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2714.ts
-#EXTINF:-1,RTP 1 HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2710.ts
-#EXTINF:-1,RTP 2 HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2713.ts
-#EXTINF:-1,RTP 2 PT
-http://portal.geniptv.com:8080/live/ze/ze/2709.ts
-#EXTINF:-1,RTP 3 PT
-http://portal.geniptv.com:8080/live/ze/ze/2708.ts
-#EXTINF:-1,RTP Açores PT
-http://portal.geniptv.com:8080/live/ze/ze/2712.ts
-#EXTINF:-1,RTP África PT
-http://portal.geniptv.com:8080/live/ze/ze/2711.ts
-#EXTINF:-1,RTP Internacional PT
-http://portal.geniptv.com:8080/live/ze/ze/5622.ts
-#EXTINF:-1,RTP Madeira PT
-http://portal.geniptv.com:8080/live/ze/ze/2707.ts
-#EXTINF:-1,RTP Memória PT
-http://portal.geniptv.com:8080/live/ze/ze/2706.ts
-#EXTINF:-1,ARTV PT
-http://portal.geniptv.com:8080/live/ze/ze/5619.ts
-#EXTINF:-1,SIC PT
-http://portal.geniptv.com:8080/live/ze/ze/2703.ts
-#EXTINF:-1,SIC Notícias PT
-http://portal.geniptv.com:8080/live/ze/ze/2701.ts
-#EXTINF:-1,SIC Mulher PT
-http://portal.geniptv.com:8080/live/ze/ze/2702.ts
-#EXTINF:-1,SIC Radical PT
-http://portal.geniptv.com:8080/live/ze/ze/2700.ts
-#EXTINF:-1,SIC Kids PT
-http://portal.geniptv.com:8080/live/ze/ze/2704.ts
-#EXTINF:-1,SIC Caras PT
-http://portal.geniptv.com:8080/live/ze/ze/2705.ts
-#EXTINF:-1,SIC HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2696.ts
-#EXTINF:-1,SIC Notícias HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2698.ts
-#EXTINF:-1,SIC Radical HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2699.ts
-#EXTINF:-1,SIC Caras HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2697.ts
-#EXTINF:-1,TVI HD PT
-http://portal.geniptv.com:8080/live/ze/ze/3840.ts
-#EXTINF:-1,TVI PT
-http://portal.geniptv.com:8080/live/ze/ze/3845.ts
-#EXTINF:-1,TVI 24 PT
-http://portal.geniptv.com:8080/live/ze/ze/3844.ts
-#EXTINF:-1,TVI Reality PT
-http://portal.geniptv.com:8080/live/ze/ze/3842.ts
-#EXTINF:-1,TVI Ficção PT
-http://portal.geniptv.com:8080/live/ze/ze/3846.ts
-#EXTINF:-1,TV Séries HD PT
-http://portal.geniptv.com:8080/live/ze/ze/3843.ts
-#EXTINF:-1,TVCine 1 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2685.ts
-#EXTINF:-1,TVCine 1 PT
-http://portal.geniptv.com:8080/live/ze/ze/2684.ts
-#EXTINF:-1,TVCine 2 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2686.ts
-#EXTINF:-1,TVCine 2 PT
-http://portal.geniptv.com:8080/live/ze/ze/2683.ts
-#EXTINF:-1,TVCine 3 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2687.ts
-#EXTINF:-1,TVCine 3 PT
-http://portal.geniptv.com:8080/live/ze/ze/2682.ts
-#EXTINF:-1,TVCine 4 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2688.ts
-#EXTINF:-1,TVCine 4 PT
-http://portal.geniptv.com:8080/live/ze/ze/2681.ts
-#EXTINF:-1,SportTV+ PT
-http://portal.geniptv.com:8080/live/ze/ze/3613.ts
-#EXTINF:-1,SportTV 1 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/3618.ts
-#EXTINF:-1,SportTV 1 HD PT
-http://portal.geniptv.com:8080/live/ze/ze/7425.ts
-#EXTINF:-1,SportTV 1 PT
-http://portal.geniptv.com:8080/live/ze/ze/2678.ts
-#EXTINF:-1,SportTV 2 PT
-http://portal.geniptv.com:8080/live/ze/ze/2677.ts
-#EXTINF:-1,SportTV 2 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/3617.ts
-#EXTINF:-1,SportTV 3 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/3616.ts
-#EXTINF:-1,SportTV 3 PT
-http://portal.geniptv.com:8080/live/ze/ze/2676.ts
-#EXTINF:-1,SportTV 4 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/3615.ts
-#EXTINF:-1,SportTV 4 PT
-http://portal.geniptv.com:8080/live/ze/ze/2675.ts
-#EXTINF:-1,SportTV 5 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/3614.ts
-#EXTINF:-1,SportTV 5 PT
-http://portal.geniptv.com:8080/live/ze/ze/2674.ts
-#EXTINF:-1,BTV 1 PT
-http://portal.geniptv.com:8080/live/ze/ze/2767.ts
-#EXTINF:-1,BTV 1 FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2766.ts
-#EXTINF:-1,Eurosport 1 HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2752.ts
-#EXTINF:-1,Eurosport 1 PT
-http://portal.geniptv.com:8080/live/ze/ze/2753.ts
-#EXTINF:-1,Eurosport 2 PT
-http://portal.geniptv.com:8080/live/ze/ze/2751.ts
-#EXTINF:-1,Eurosport News PT
-http://portal.geniptv.com:8080/live/ze/ze/2750.ts
-#EXTINF:-1,Sporting TV HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2695.ts
-#EXTINF:-1,Sporting TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2694.ts
-#EXTINF:-1,Porto Canal PT
-http://portal.geniptv.com:8080/live/ze/ze/2716.ts
-#EXTINF:-1,Caça e Pesca PT
-http://portal.geniptv.com:8080/live/ze/ze/2765.ts
-#EXTINF:-1,Canal Q PT
-http://portal.geniptv.com:8080/live/ze/ze/5618.ts
-#EXTINF:-1,CMTV PT
-http://portal.geniptv.com:8080/live/ze/ze/2758.ts
-#EXTINF:-1,PFC PT
-http://portal.geniptv.com:8080/live/ze/ze/2717.ts
-#EXTINF:-1,24 Kitchen HD PT
-http://portal.geniptv.com:8080/live/ze/ze/6237.ts
-#EXTINF:-1,24 Kitchen FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2781.ts
-#EXTINF:-1,Discovery Channel PT
-http://portal.geniptv.com:8080/live/ze/ze/2757.ts
-#EXTINF:-1,Discovery Showcase HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2756.ts
-#EXTINF:-1,A&E PT
-http://portal.geniptv.com:8080/live/ze/ze/2779.ts
-#EXTINF:-1,AMC FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2776.ts
-#EXTINF:-1,AMC PT
-http://portal.geniptv.com:8080/live/ze/ze/2777.ts
-#EXTINF:-1,Hollywood HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2734.ts
-#EXTINF:-1,Hollywood PT
-http://portal.geniptv.com:8080/live/ze/ze/2733.ts
-#EXTINF:-1,Odisseia PT
-http://portal.geniptv.com:8080/live/ze/ze/2718.ts
-#EXTINF:-1,National Geographic HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2720.ts
-#EXTINF:-1,Nat Geo Wild HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2722.ts
-#EXTINF:-1,Nat Geo Wild PT
-http://portal.geniptv.com:8080/live/ze/ze/2723.ts
-#EXTINF:-1,AXN HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2771.ts
-#EXTINF:-1,AXN Black HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2772.ts
-#EXTINF:-1,AXN White HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2770.ts
-#EXTINF:-1,Disney Junior PT
-http://portal.geniptv.com:8080/live/ze/ze/2755.ts
-#EXTINF:-1,Disney Channel PT
-http://portal.geniptv.com:8080/live/ze/ze/3841.ts
-#EXTINF:-1,Cartoon Network PT
-http://portal.geniptv.com:8080/live/ze/ze/2761.ts
-#EXTINF:-1,JimJam PT
-http://portal.geniptv.com:8080/live/ze/ze/2732.ts
-#EXTINF:-1,Canal Panda PT
-http://portal.geniptv.com:8080/live/ze/ze/2762.ts
-#EXTINF:-1,Panda Biggs PT
-http://portal.geniptv.com:8080/live/ze/ze/2763.ts
-#EXTINF:-1,Nickelodeon PT
-http://portal.geniptv.com:8080/live/ze/ze/2719.ts
-#EXTINF:-1,BabyFirst PT
-http://portal.geniptv.com:8080/live/ze/ze/2769.ts
-#EXTINF:-1,Baby TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2768.ts
-#EXTINF:-1,MTV PT
-http://portal.geniptv.com:8080/live/ze/ze/2724.ts
-#EXTINF:-1,TLC PT
-http://portal.geniptv.com:8080/live/ze/ze/2691.ts
-#EXTINF:-1,Fashion TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2748.ts
-#EXTINF:-1,FOX FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2743.ts
-#EXTINF:-1,FOX Comedy HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2740.ts
-#EXTINF:-1,FOX Comedy PT
-http://portal.geniptv.com:8080/live/ze/ze/2745.ts
-#EXTINF:-1,FOX Crime HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2739.ts
-#EXTINF:-1,FOX Life HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2741.ts
-#EXTINF:-1,FOX Movies HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2742.ts
-#EXTINF:-1,FOX Movies PT
-http://portal.geniptv.com:8080/live/ze/ze/2746.ts
-#EXTINF:-1,CineMundo PT
-http://portal.geniptv.com:8080/live/ze/ze/2759.ts
-#EXTINF:-1,Syfy FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2693.ts
-#EXTINF:-1,Syfy PT
-http://portal.geniptv.com:8080/live/ze/ze/2692.ts
-#EXTINF:-1,TV Globo PT
-http://portal.geniptv.com:8080/live/ze/ze/2737.ts
-#EXTINF:-1,TV Globo Premium PT
-http://portal.geniptv.com:8080/live/ze/ze/2736.ts
-#EXTINF:-1,A Bola TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2780.ts
-#EXTINF:-1,Afro Music PT
-http://portal.geniptv.com:8080/live/ze/ze/2778.ts
-#EXTINF:-1,BBC Entertainment PT
-http://portal.geniptv.com:8080/live/ze/ze/2775.ts
-#EXTINF:-1,BBC World News PT
-http://portal.geniptv.com:8080/live/ze/ze/2773.ts
-#EXTINF:-1,Caça Vision PT
-http://portal.geniptv.com:8080/live/ze/ze/2764.ts
-#EXTINF:-1,CBS Reality PT
-http://portal.geniptv.com:8080/live/ze/ze/2760.ts
-#EXTINF:-1,E! PT
-http://portal.geniptv.com:8080/live/ze/ze/2754.ts
-#EXTINF:-1,Fight Network PT
-http://portal.geniptv.com:8080/live/ze/ze/2749.ts
-#EXTINF:-1,LocalVisão TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2744.ts
-#EXTINF:-1,Fuel TV FHD PT
-http://portal.geniptv.com:8080/live/ze/ze/2747.ts
-#EXTINF:-1,Fuel TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2738.ts
-#EXTINF:-1,História PT
-http://portal.geniptv.com:8080/live/ze/ze/2735.ts
-#EXTINF:-1,Kombat Sport PT
-http://portal.geniptv.com:8080/live/ze/ze/2731.ts
-#EXTINF:-1,MCM POP PT
-http://portal.geniptv.com:8080/live/ze/ze/2730.ts
-#EXTINF:-1,MCM TOP PT
-http://portal.geniptv.com:8080/live/ze/ze/2729.ts
-#EXTINF:-1,Motorvision TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2727.ts
-#EXTINF:-1,Motorsport.TV HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2725.ts
-#EXTINF:-1,MCS LifeStyle PT
-http://portal.geniptv.com:8080/live/ze/ze/2721.ts
-#EXTINF:-1,Real Madrid TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2715.ts
-#EXTINF:-1,Toros TV PT
-http://portal.geniptv.com:8080/live/ze/ze/2690.ts
-#EXTINF:-1,Travel Channel HD PT
-http://portal.geniptv.com:8080/live/ze/ze/2689.ts
-#EXTINF:-1,TV Record PT
-http://portal.geniptv.com:8080/live/ze/ze/2680.ts
-#EXTINF:-1,C-Music TV PT
-http://portal.geniptv.com:8080/live/ze/ze/5611.ts
-#EXTINF:-1,Canção Nova PT
-http://portal.geniptv.com:8080/live/ze/ze/5620.ts
-#EXTINF:-1,Mezzo PT
-http://portal.geniptv.com:8080/live/ze/ze/5610.ts
-#EXTINF:-1,TV Fatima PT
-http://portal.geniptv.com:8080/live/ze/ze/5617.ts
-#EXTINF:-1,Trace Urban PT
-http://portal.geniptv.com:8080/live/ze/ze/5612.ts
-#EXTINF:-1,VH1 PT
-http://portal.geniptv.com:8080/live/ze/ze/5613.ts
-#EXTINF:-1,PPTV 1 TH
-http://portal.geniptv.com:8080/live/ze/ze/8669.ts
-#EXTINF:-1,PPTV HD TH
-http://portal.geniptv.com:8080/live/ze/ze/5441.ts
-#EXTINF:-1,A1 SHQIPTARE AL
-http://portal.geniptv.com:8080/live/ze/ze/3706.ts
+#EXTINF:-1,PT: RTP 1
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9575.ts
+#EXTINF:-1,PT: RTP 2
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9576.ts
+#EXTINF:-1,PT: SIC
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9584.ts
+#EXTINF:-1,PT: TVI
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9592.ts
+#EXTINF:-1,PT: SIC Noticias
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9585.ts
+#EXTINF:-1,PT: RTP 3
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9577.ts
+#EXTINF:-1,PT: TVI 24
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9591.ts
+#EXTINF:-1,PT: CMTV
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9574.ts
+#EXTINF:-1,PT: Globo
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9599.ts
+#EXTINF:-1,PT: SIC MULHER
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9586.ts
+#EXTINF:-1,PT: TVI REALITY
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9635.ts
+#EXTINF:-1,PT: Porto Canal
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9606.ts
+#EXTINF:-1,PT: SIC CARAS
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9587.ts
+#EXTINF:-1,PT: SIC Radical
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9588.ts
+#EXTINF:-1,PT: RTP Memoria
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9657.ts
+#EXTINF:-1,PT: Sport TV
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9608.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9609.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9610.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9611.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9612.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9613.ts
+#EXTINF:-1,PT: Benfica TV 1 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9614.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9618.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9616.ts
+#EXTINF:-1,PT: NICKELODEON
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9640.ts
+#EXTINF:-1,PT: Canal Panda
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9639.ts
+#EXTINF:-1,PT: Biggs
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9643.ts
+#EXTINF:-1,PT: Disney junior
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9644.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9646.ts
+#EXTINF:-1,PT: Baby TV
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9641.ts
+#EXTINF:-1,PT: TVCine 1
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9593.ts
+#EXTINF:-1,PT: TVCine 2
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9594.ts
+#EXTINF:-1,PT: TVCine 3
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9595.ts
+#EXTINF:-1,PT: TVCine 4
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9596.ts
+#EXTINF:-1,PT: TV SERIES
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9597.ts
+#EXTINF:-1,PT: Hollywood
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9581.ts
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9663.ts
+#EXTINF:-1,PT: AXN Black HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9605.ts
+#EXTINF:-1,PT: AXN HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9604.ts
+#EXTINF:-1,PT: MOV HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9602.ts
+#EXTINF:-1,PT: Globo Premium
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/17697.ts
+#EXTINF:-1,PT: Fox Life
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9638.ts
+#EXTINF:-1,PT: Fox HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9589.ts
+#EXTINF:-1,PT: Fox Crime
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9583.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9607.ts
+#EXTINF:-1,PT: Fox Movies
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9637.ts
+#EXTINF:-1,PT: AXN White HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9603.ts
+#EXTINF:-1,PT: Canal Q
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9582.ts
+#EXTINF:-1,PT: TLC
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9625.ts
+#EXTINF:-1,PT: MTV
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9659.ts
+#EXTINF:-1,PT: AMC
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9632.ts
+#EXTINF:-1,PT: 24 KITCHEN
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9573.ts
+#EXTINF:-1,PT: Discovery Channel
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9656.ts
+#EXTINF:-1,PT: National Geographic
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9649.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9655.ts
+#EXTINF:-1,PT: Odisseia
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9590.ts
+#EXTINF:-1,PT: Travel Channel
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9658.ts
+#EXTINF:-1,PT: Historia
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9664.ts
+#EXTINF:-1,PT: A&E
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9633.ts
+#EXTINF:-1,PT: Discovery Showcase
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9652.ts
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9619.ts
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9620.ts
+#EXTINF:-1,PT: Eurosport News
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9617.ts
+#EXTINF:-1,PT: Fuel TV
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/9627.ts
+#EXTINF:-1,PT: Toros TV
+http://atomtv.net:8000/live/localiptv/mFlcuGtl9O/17704.ts
+Binary file (standard input) matches
